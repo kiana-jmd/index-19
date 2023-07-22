@@ -1,0 +1,150 @@
+body{
+    width: 375px;
+    font-family: 'Roboto', sans-serif;
+}
+.br{
+    bottom: 3rem;
+    right: 8rem;
+}
+.b{
+    bottom: 14rem;
+}
+.fs-14{
+    font-size: 1.4rem;
+}
+.fs-18{
+    font-size: 1.8rem;
+}
+
+.w-246{
+    width: 24.6rem;
+}
+.p-color{
+    color: rgba(136, 136, 136, 1);
+}
+.pb{
+    padding: 1.4rem 12.1rem;
+}
+.pt-30{
+    padding-top: 3rem;
+}
+.gap-6{
+    gap: 4.7rem;
+}
+.radius-157{
+    border-radius: 15.7rem;
+}
+.radius-10{
+    border-radius: 1rem;
+}
+.button-1{
+    background-color: rgba(183, 183, 183, 0.87);
+    color: rgba(255, 255, 255, 1);
+}
+.bottom-13{
+    bottom: 13rem;
+}
+.bottom-8{
+    bottom: 8rem;
+}
+.bottom-27{
+    bottom: 27rem;
+}
+.bottom-5{
+    bottom: 5rem;
+}
+.w-335{
+    width: 33.5rem;
+    height: 5rem;
+}
+.w-30{
+    width: 30%;
+}
+.w-70{
+    width: 70%;
+}
+.color-gray{
+    color: rgba(136, 136, 136, 1);
+}
+.border-none{
+    border: none;
+}
+.w-147{
+    width: 14.7rem;
+    height: .1rem;
+    background-color: rgba(136, 136, 136, 1);
+}
+.w-160{
+    width: 16rem;
+    height: 5rem;
+}
+.w-253{
+    width: 25.3rem;
+}
+.gap-47{
+    gap: 4.7rem;
+}
+.btn-style{
+    background-color: rgb(249, 248, 251);
+    width: 16rem;
+    height: 5rem;
+    color: black;
+    border-color: rgb(179, 178, 178);
+    box-shadow: none;
+}
+.btn-style-2{
+    background-color: rgb(249, 248, 251);
+    width: 33.5rem;
+    height: 5rem;
+    color: black;
+    border-color: rgb(179, 178, 178);
+    box-shadow: none;
+}
+.pt-70{
+    padding-top: 7rem;
+}
+.input{
+    width: 4rem;
+    height: 4rem;
+    border-color: rgba(218, 218, 218, 1);
+    border-radius: 1rem;
+}
+.pt-274{
+    padding-top: 27.4rem;
+}
+.wb-335{
+    width: 33.5rem;
+    height: .1rem;
+    background-color: rgba(218, 218, 218, 1);
+}
+.btn-color{
+    background-color: rgba(87, 195, 190, 1);
+}
+
+.cp-1{
+    left: 14rem;
+    bottom: 30rem;
+}
+.cp-2{
+    bottom: 47rem;
+    left: 2rem;
+}
+.cp-3{
+    left: 30.5rem;
+    bottom: 22rem;
+}
+.fs-24{
+    font-size: 2.4rem;
+}
+.cal{
+    background-color: rgba(30, 116, 0, 1);
+    width: 5rem;
+    height: 5rem;
+    border-radius: 100%;
+}
+.bottom-23{
+    bottom: 23rem;
+}
+.right-1{
+    right: 1rem;
+}
